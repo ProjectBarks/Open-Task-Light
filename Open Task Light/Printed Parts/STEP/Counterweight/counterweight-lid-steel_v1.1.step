@@ -9,12 +9,12 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'counterweight-lid-steel_v1.0.step',
-/* time_stamp */ '2026-08-29T10:50:22-05:00',
+/* name */ 'counterweight-lid-steel_v1.1.otl-export-tmp.step',
+/* time_stamp */ '2026-09-23T11:19:07-05:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -663,7 +663,7 @@ SOLID_ANGLE_UNIT()
 #610=PRODUCT_DEFINITION_SHAPE('',$,#613);
 #611=SHAPE_REPRESENTATION('',(#364),#603);
 #612=PRODUCT_DEFINITION_CONTEXT('part definition',#617,'design');
-#613=PRODUCT_DEFINITION('2026-08-29-10-50-22-601','(Unsaved)',#614,#612);
+#613=PRODUCT_DEFINITION('2026-09-23-11-19-06-963','(Unsaved)',#614,#612);
 #614=PRODUCT_DEFINITION_FORMATION('',$,#619);
 #615=PRODUCT_RELATED_PRODUCT_CATEGORY('(Unsaved)','(Unsaved)',(#619));
 #616=APPLICATION_PROTOCOL_DEFINITION('international standard',
@@ -671,7 +671,7 @@ SOLID_ANGLE_UNIT()
 #617=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #618=PRODUCT_CONTEXT('part definition',#617,'mechanical');
-#619=PRODUCT('2026-08-29-10-50-22-601','(Unsaved)',$,(#618));
+#619=PRODUCT('2026-09-23-11-19-06-963','(Unsaved)',$,(#618));
 #620=PRESENTATION_STYLE_ASSIGNMENT((#621));
 #621=SURFACE_STYLE_USAGE(.BOTH.,#622);
 #622=SURFACE_SIDE_STYLE('',(#623));

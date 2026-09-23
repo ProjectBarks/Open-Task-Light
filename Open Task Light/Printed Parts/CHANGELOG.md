@@ -39,3 +39,17 @@ Improved tab clearance
 **Successor release**
 
 Replaced standalone cylinder lid screw receptacle with attached rib (thanks @_ianofearth). Improved lid tab clearance (thanks @vurmshmutz)
+
+## 2026-09-23
+
+### `counterweight-enclosure-steel` — v1.1
+
+**Successor release**
+
+Fixed modeling issue where lid support didn't fully extend to meet the enclosure wall, thanks @nickcollura
+
+### `counterweight-lid-steel` — v1.1
+
+**Successor release**
+
+Fixed modeling issue where lid support didn't fully extend to meet the enclosure wall, thanks @nickcollura
